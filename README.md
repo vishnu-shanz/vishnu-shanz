@@ -1,78 +1,76 @@
+<!-- ========================= HERO ========================= -->
+
 <div align="center">
 
-# 👋 Hey, I'm Shanmuga Vishnu G
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b2ff7&height=220&section=header&text=Shanmuga%20Vishnu%20G&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
 
-### 🤖 AI-Native Full-Stack Developer
+<br>
 
-<p>
-  <i>Building intelligent applications where AI meets real-world software engineering.</i>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Software+%F0%9F%A4%96;Generative+AI+%7C+AI+Agents+%7C+RAG;Full-Stack+Development+%7C+Backend+Engineering;Turning+Ideas+into+Production-Ready+AI+Systems+%F0%9F%9A%80" />
+</a>
 
-<p>
-  <a href="https://github.com/vishnu-shanz">
-    <img src="https://img.shields.io/github/followers/vishnu-shanz?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/vishnu-shanz?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-25-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/shanmuga-vishnu-g-459802257/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<br><br>
+
+<a href="https://github.com/vishnu-shanz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+<!-- ========================= INTRO ========================= -->
 
-I'm **Shanmuga Vishnu**, an **AI-Native Full-Stack Developer** focused on building practical AI-powered applications and intelligent software systems.
+<div align="center">
 
-My interests sit at the intersection of:
+## 🧠 Engineering Intelligent Systems
 
-- 🤖 **Generative AI & LLM Applications**
-- 🧠 **AI Agents & Agentic Workflows**
-- 🔎 **RAG & Knowledge-Based Systems**
-- ⚙️ **Backend & API Engineering**
-- 🎨 **Modern Full-Stack Development**
-- ☁️ **Cloud & AI Platforms**
-
-I enjoy taking an idea from:
-
-`Problem → Architecture → AI Workflow → Backend → UI → Deployment`
-
-and turning it into something people can actually use.
-
-Currently, I'm going deeper into **Agentic AI, Azure AI, AWS AI services, MCP, RAG architectures, LLM application development, and production-ready AI systems.**
-
----
-
-## 🚀 What I'm Building
+</div>
 
 ```text
-                    ┌───────────────────────────┐
-                    │       AI APPLICATIONS     │
-                    └─────────────┬─────────────┘
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-        🤖 AI AGENTS          🔎 RAG SYSTEMS      🧠 LLM APPS
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  │
-                                  ▼
-                       ⚙️ BACKEND SERVICES
-                                  │
-                    ┌─────────────┴─────────────┐
-                    │                           │
-                    ▼                           ▼
-                FastAPI                    PostgreSQL
-                    │                           │
-                    └─────────────┬─────────────┘
-                                  │
-                                  ▼
-                         🎨 FULL-STACK UI
-                                  │
-                                  ▼
-                         ☁️ CLOUD / DEPLOYMENT
+                    ┌──────────────────────────────┐
+                    │          💡 IDEA             │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       🧠 AI / LLM            │
+                    │  Agents • RAG • Reasoning     │
+                    └──────────────┬───────────────┘
+                                   │
+                     ┌─────────────┴─────────────┐
+                     │                           │
+                     ▼                           ▼
+              ┌──────────────┐          ┌──────────────┐
+              │  🔌 TOOLS     │          │  🔎 KNOWLEDGE │
+              │ APIs / MCP    │          │ Vector / RAG  │
+              └──────┬───────┘          └──────┬───────┘
+                     │                           │
+                     └─────────────┬─────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       ⚙️ BACKEND             │
+                    │   FastAPI • Python • SQL     │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       🎨 FRONTEND            │
+                    │ React • Next.js • TypeScript │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       ☁️ CLOUD               │
+                    │ AWS • Azure • Docker • CI/CD │
+                    └──────────────────────────────┘
