@@ -32,41 +32,27 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **💻 Languages & Core**
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **⚙️ Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
 
 </td>
-<td width="50%" valign="top">
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
-
-</td>
 </tr>
 </table>
 
@@ -74,14 +60,21 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+
+</td>
+<td width="33%" valign="top">
 
 **☁️ Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" />
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🧰 Tools**
 
