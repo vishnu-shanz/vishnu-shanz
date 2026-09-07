@@ -30,41 +30,68 @@
 
 <br/>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 **💻 Languages & Core**
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
 **🎨 Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 **⚙️ Backend & APIs**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
 **🗄️ Databases**
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 **☁️ Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" />
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
 **🧰 Tools**
 
 <img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
 
-<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
 
 **🤖 AI & Generative AI**
 
