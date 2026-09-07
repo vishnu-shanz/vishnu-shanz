@@ -24,38 +24,47 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-<br/>
+<br/><br/>
 
 ## 🛠️ Technologies & Tools
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 **💻 Languages & Core**
-<p><img src="https://skillicons.dev/icons?i=python,js,ts,html,css" /></p>
 
-**⚙️ Backend & APIs**
-<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" /></p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
 
-**☁️ Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" /></p>
-
-</td>
-<td width="50%" valign="top">
+<br/><br/>
 
 **🎨 Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" /></p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+
+<br/><br/>
+
+**⚙️ Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
+
+<br/><br/>
 
 **🗄️ Databases**
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /></p>
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+
+<br/><br/>
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git" />
+
+<br/><br/>
 
 **🧰 Tools**
-<p><img src="https://skillicons.dev/icons?i=vscode,postman,streamlit,linux" /></p>
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
+
+<br/><br/>
 
 **🤖 AI & Generative AI**
 
@@ -65,10 +74,12 @@
 <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI_AGENTS-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-7B2FF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge" />
+<br/><br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LlamaIndex-7B2FF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
@@ -183,20 +194,16 @@ Modern full-stack notes app
 
 <br/>
 
-## 📊 GitHub Stats
+## 📌 Quick Facts
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnu-shanz&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-shanz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-shanz&theme=radical&hide_border=true&background=0D1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnu-shanz&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishnu-shanz&theme=radical&no-frame=true&margin-w=10&row=1" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="25%" align="center">🌍<br/><b>Location</b><br/><sub>Chennai, India</sub></td>
+<td width="25%" align="center">💼<br/><b>Currently At</b><br/><sub>Indium Software</sub></td>
+<td width="25%" align="center">🎯<br/><b>Focus</b><br/><sub>Agentic AI Systems</sub></td>
+<td width="25%" align="center">🟢<br/><b>Status</b><br/><sub>Open to Collaborate</sub></td>
+</tr>
+</table>
 
 <br/>
 
